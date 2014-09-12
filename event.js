@@ -1,5 +1,5 @@
 /*
- * socket.js - Accela event demo
+ * event.js - Accela event browser demo
 */
 
 /*jslint         node    : true, continue : true,
