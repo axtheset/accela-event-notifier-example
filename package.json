@@ -1,0 +1,10 @@
+{ "name"    : "EventExample",
+  "version" : "0.0.1",
+  "private" : true,
+  "dependencies" : {
+    "express"     : "latest",
+    "socket.io"   : "latest",
+    "body-parser" : "latest",
+    "request"     : "latest"
+  }
+}
